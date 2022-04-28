@@ -17,7 +17,10 @@ function Home() {
           <Link to="/profiles/gildong">길동의 프로필</Link>
         </li>
         <li>
-          <Link to="/profiles/void">소개</Link>
+          <Link to="/profiles/void">존재하지 않는</Link>
+        </li>
+        <li>
+          <Link to="/articles">게시글 목록</Link>
         </li>
       </ul>
     </div>
